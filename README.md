@@ -1,5 +1,6 @@
 # nbt_speed_test
-Speed test of Mojang's NBT implementation
+Speed test of Mojang's NBT implementation.
+
 Don't do evil!
 
 # Code source
