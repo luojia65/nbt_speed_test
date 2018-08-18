@@ -1,0 +1,3 @@
+[submodule "php/pmmp_nbt"]
+	path = php/pmmp_nbt
+	url = https://github.com/pmmp/NBT
